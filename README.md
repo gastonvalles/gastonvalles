@@ -9,7 +9,8 @@ My most outstanding academic experience was that of the last year, since I worke
 My current level of English is C1 and I am always looking to polish it to the desired C2
 
 📲Contact me!📲
-
+LinkedIn: https://www.linkedin.com/in/gaston-valles-2b6a68238/
+Email: gastonvallesyeou@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gaston-valles-2b6a68238/) 
