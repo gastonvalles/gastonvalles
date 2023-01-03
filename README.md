@@ -1,5 +1,14 @@
 # 💫 About Me:
-I'm looking for a job as a web developer<br>Recent Graduate in SoyHenry<br>Learning Angular
+I am a Full Stack Developer, with a great ability to work as a team and consolidate web projects with the greatest enthusiasm!
+
+📌Why Me?📌
+Because with me you will get, in addition to excellent technical skills, a developer with a great leadership capacity, teamwork, problem solving and above all eager to help and learn from others, to strengthen and expand all my skills.
+
+🚀Experience🚀
+My most outstanding academic experience was that of the last year, since I worked as a full stack developer student at Henry, where I learned and perfected my Back-end and Front-end bases, adding an excellent use of JavaScript with its libraries and frameworks.
+My current level of English is C1 and I am always looking to polish it to the desired C2
+
+📲Contact me!📲
 
 
 ## 🌐 Socials:
