@@ -22,10 +22,6 @@ Email: gastonvallesyeou@gmail.com
 ![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=gastonvalles&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gastonvalles&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=gastonvalles&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
-
----
 [![](https://visitcount.itsvg.in/api?id=gastonvalles&icon=2&color=6)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
