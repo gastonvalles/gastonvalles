@@ -1,9 +1,6 @@
 <h1 align="center">¡Hey👋, I'm Gastón!</h1>
 <h3 align="center">Full Stack Developer 💻</h3><br/> 
-<p align="center">
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif)
-</p>
-
 <h2>About Me</h2>
 <p>
   As a Full Stack Developer with extensive experience in web development, I have a deep understanding of how to create efficient and effective web solutions that meet business needs. My ability to work collaboratively with cross-functional teams and stakeholders is one of my strongest skills, and I have a track record of successfully delivering projects on time and within budget.
@@ -13,11 +10,8 @@ I am proficient in various cutting-edge technologies such as Node.js, React, Red
 What sets me apart is my commitment to staying up-to-date with the latest industry trends and best practices. I'm always exploring new tools and technologies that can help me build better, faster, and more robust web applications. My ability to think outside the box and adapt to changing requirements makes me an asset to any team.
 
 If you are looking for a Full Stack Developer who is committed, proactive, and passionate about their work, then look no further. I would be thrilled to bring my skills and experience to your organization and help you achieve your business goals. Let's connect and explore how I can contribute to your success!
-  
-  <br/>
-  <br/>
-<br/>
-
+</p>  
+ 
 ```js
 const gastonvalles = {
   pronouns: 'he' || 'him',
