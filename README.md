@@ -1,6 +1,8 @@
 <h1 align="center">¡Hey👋, I'm Gastón!</h1>
 <h3 align="center">Full Stack Developer 💻</h3><br/>
-
+<p align="center">
+  <img src="![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif)" alt="animated" />
+</p>
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif)
 
 <h2>About Me</h2>
