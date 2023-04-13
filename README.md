@@ -1,7 +1,7 @@
 <h1 align="center">¡Hey👋, I'm Gastón!</h1>
 <h3 align="center">Full Stack Developer 💻</h3><br/>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif" alt="animated" />
+  <img src="https://tenor.com/es-419/view/typing-code-linux-computer-elliot-alderson-gif-10667985" alt="animated" />
 </p>
 <h2>About Me</h2>
 <p>
