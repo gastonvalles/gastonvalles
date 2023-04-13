@@ -23,7 +23,7 @@ const gastonvalles = {
     backEnd: [ "NodeJs", "Express", "Sequelize" ],
     frontEnd: [ "React", "Redux", "Hooks", "CSS modules", "Bootstrap", "TailwindCSS", "Webpack" ],
     others: [ "JWT", "ChatGPT", "SCRUM", "Git" ],
-    inProgress: [ "Vue.js", "Salesforce" ]
+    inProgress: [ "Vue.js", "Salesforce", "Cybersecurity" ]
   },
   contact: {
     email: "gastonvallesyeou@gmail.com",
