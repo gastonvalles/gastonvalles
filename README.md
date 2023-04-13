@@ -1,6 +1,8 @@
 <h1 align="center">¡Hey👋, I'm Gastón!</h1>
-<h3 align="center">Full Stack Developer 💻</h3><br/> 
+<h3 align="center">Full Stack Developer 💻</h3><br/>
+
 ![](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/productive.gif)
+
 <h2>About Me</h2>
 <p>
   As a Full Stack Developer with extensive experience in web development, I have a deep understanding of how to create efficient and effective web solutions that meet business needs. My ability to work collaboratively with cross-functional teams and stakeholders is one of my strongest skills, and I have a track record of successfully delivering projects on time and within budget.
