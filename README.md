@@ -1,4 +1,4 @@
-<h1 align="center">¡Hey, I'm Gastón👋!</h1>
+<h1 align="center">¡Hey👋, I'm Gastón!</h1>
 <h3 align="center">Full Stack Developer 💻</h3><br/> 
 
 ![Daiana Grillia (1)](https://user-images.githubusercontent.com/94879125/214957275-f4cd4523-e46f-4e61-b8cf-9ccad8f9f66b.gif)
