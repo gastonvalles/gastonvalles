@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gaston</h1>
 <h3 align="center">Full Stack Developer</h3><br/>
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_banners/1521194196/1692682098/1500x500" alt="animated" />
+  <img src="https://pbs.twimg.com/profile_banners/1521194196/1692684957/1500x500" alt="animated" />
 </p>
 <h2>About Me</h2>
 <p>
