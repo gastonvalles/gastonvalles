@@ -5,25 +5,20 @@
 </p>
 <h2>About Me</h2>
 <p>
-  As a Full Stack Developer with extensive experience in web development, I have a deep understanding of how to create efficient and effective web solutions that meet business needs. My ability to work collaboratively with cross-functional teams and stakeholders is one of my strongest skills, and I have a track record of successfully delivering projects on time and within budget.
-
-I am proficient in various cutting-edge technologies such as Node.js, React, Redux, SQL, and more, and I am always eager to learn new ones. My technical expertise, combined with my passion for solving complex problems, allows me to craft innovative solutions that drive business growth and success.
-
-What sets me apart is my commitment to staying up-to-date with the latest industry trends and best practices. I'm always exploring new tools and technologies that can help me build better, faster, and more robust web applications. My ability to think outside the box and adapt to changing requirements makes me an asset to any team.
-
-If you are looking for a Full Stack Developer who is committed, proactive, and passionate about their work, then look no further. I would be thrilled to bring my skills and experience to your organization and help you achieve your business goals. Let's connect and explore how I can contribute to your success!
+  Experienced MERN developer with a strong back-end focus.
+Committed to quality, efficiency and collaborative success in achieving project objectives.
+Agile enthusiast (SCRUM) and leader in diverse projects.
 </p> 
 
 ```js
 const gastonvalles = {
   pronouns: 'he' || 'him',
   code: {
-    languages: [ "JavaScript", "TypeScript" ],
+    languages: [ "JavaScript", "Go" ],
     database: [ "MongoDB", "PostgreSQL, MySQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize" ],
-    frontEnd: [ "React", "Redux", "Hooks", "CSS modules", "Bootstrap", "TailwindCSS", "Webpack" ],
-    others: [ "JWT", "ChatGPT", "SCRUM", "Git" ],
-    inProgress: [ "Vue.js", "Salesforce", "Cybersecurity" ]
+    backEnd: [ "NodeJs", "Express", "Sequelize", "NestJs", "Gin" ],
+    frontEnd: [ "React", "Redux", "Hooks", "CSS modules", "Bootstrap", "TailwindCSS", "NextJs" ],
+    others: [ "JWT", "ChatGPT", "SCRUM", "Git" ]
   },
   contact: {
     email: "gastonvallesyeou@gmail.com",
