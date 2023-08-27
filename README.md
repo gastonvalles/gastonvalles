@@ -1,5 +1,4 @@
-<h1 align="center">Hi, I'm Gaston</h1>
-<h3 align="center">Full Stack Developer</h3><br/>
+<h1 align="center">Full Stack Developer</h1>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQGCvfwYMnQbLA/profile-displaybackgroundimage-shrink_350_1400/0/1692681963054?e=1698278400&v=beta&t=VWJ-rNIrJmPketfEhbF_Px5ppS0pciv6Ct_pudJsCTM" alt="animated" />
 </p>
