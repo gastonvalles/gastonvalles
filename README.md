@@ -4,9 +4,17 @@
 </p>
 <h2>About Me</h2>
 <p>
-  Experienced MERN developer with a strong back-end focus.
-Committed to quality, efficiency and collaborative success in achieving project objectives.
-Agile enthusiast (SCRUM) and leader in diverse projects.
+experienced, collaborative and analytical full stack developer with a strong backend focus.
+
+
+Graduated from the intensive Henry Bootcamp in January of 2023 and working in the field since then.
+Currently looking for new opportunities as a backend (preferable), frontend or fullstack developer position.
+
+
+I believe that you should never stop growing and that's why I'm constantly developing new projects, learning new technologies in addition to training my current skills to improve my professional value.
+
+
+Let's do amazing things together! 😁
 </p> 
 
 ```js
