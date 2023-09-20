@@ -4,7 +4,7 @@
 </p>
 <h2>About Me</h2>
 <p>
-experienced, collaborative and analytical full stack developer with a strong backend focus.
+Experienced, collaborative and analytical full stack developer with a strong backend focus.
 
 
 Graduated from the intensive Henry Bootcamp in January of 2023 and working in the field since then.
