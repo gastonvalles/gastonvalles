@@ -1,8 +1,8 @@
-<h1>Full Stack Developer</h1>
+<h1 align="center">Full Stack Developer</h1>
 <p align="center">
   <img src="https://media.licdn.com/dms/image/D4D16AQGCvfwYMnQbLA/profile-displaybackgroundimage-shrink_350_1400/0/1692681963054?e=1698278400&v=beta&t=VWJ-rNIrJmPketfEhbF_Px5ppS0pciv6Ct_pudJsCTM" alt="animated" />
 </p>
-## About Me
+<h2 align="center" >Get to know me!</h2>
 <p>
 Experienced, collaborative and analytical full stack developer with a strong backend focus.
 
