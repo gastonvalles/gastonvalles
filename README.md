@@ -15,6 +15,11 @@ I believe that you should never stop growing and that's why I'm constantly devel
 
 
 Let's do amazing things together! 😁
+
+Portfolio: https://gastonvalles-portfolio.vercel.app/
+LinkedIn: https://www.linkedin.com/in/gastonvalles/
+Email: gastonvallesyeou@gmail.com
+
 </p> 
 
 ```js
