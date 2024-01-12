@@ -1,6 +1,6 @@
 <h1 align="center">Full Stack Developer</h1>
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQGCvfwYMnQbLA/profile-displaybackgroundimage-shrink_350_1400/0/1692681963054?e=1703721600&v=beta&t=-24gz_bPFVilgKMDB4b0W0Jc9pKlYlEWSKzIGkutRys" alt="banner" />
+  <img src="[https://media.licdn.com/dms/image/D4D16AQGCvfwYMnQbLA/profile-displaybackgroundimage-shrink_350_1400/0/1692681963054?e=1703721600&v=beta&t=-24gz_bPFVilgKMDB4b0W0Jc9pKlYlEWSKzIGkutRys](https://media.licdn.com/dms/image/D4D16AQGCvfwYMnQbLA/profile-displaybackgroundimage-shrink_350_1400/0/1692681963407?e=1710374400&v=beta&t=O48haPPAYSDHk5Lh0ZMMjUUai6z7YwM5bavc8illahE)" alt="banner" />
 </p>
 <h2 align="center" >Get to know me!</h2>
 <p>
