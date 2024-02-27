@@ -5,6 +5,7 @@
 <h2 align="center" >Get to know me!</h2>
 <p>
 I'm Gaston Valles, skilled full stack developer, focused on backend development. I bring an innovative vision and tangible results to each project, leading teams and applying agile methodologies such as SCRUM and KANBAN.
+  
 My communication skills, teamwork, ability to learn quickly and command of English (C1) allow me to adapt to any challenge.
 
 I have developed multiple projects using technologies such as TypeScript, React, Next.js, Vue.js, JWT, Socket.io, Node.js, Express, NestJs, Sequelize, SQL Server, PostgreSQL, Redis, MongoDB, Golang, GinGonic, Docker, REST API, microservices, monoliths, etc.
