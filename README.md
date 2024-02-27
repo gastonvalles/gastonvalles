@@ -4,15 +4,10 @@
 </p>
 <h2 align="center" >Get to know me!</h2>
 <p>
-Experienced, collaborative and analytical full stack developer with a strong backend focus.
+I'm Gaston Valles, skilled full stack developer, focused on backend development. I bring an innovative vision and tangible results to each project, leading teams and applying agile methodologies such as SCRUM and KANBAN.
+My communication skills, teamwork, ability to learn quickly and command of English (C1) allow me to adapt to any challenge.
 
-
-Graduated from the intensive Henry Bootcamp in January of 2023 and working in the field since then.
-Currently looking for new opportunities as a backend (preferable), frontend or fullstack developer position.
-
-
-I believe that you should never stop growing and that's why I'm constantly developing new projects, learning new technologies in addition to training my current skills to improve my professional value.
-
+I have developed multiple projects using technologies such as TypeScript, React, Next.js, Vue.js, JWT, Socket.io, Node.js, Express, NestJs, Sequelize, SQL Server, PostgreSQL, Redis, MongoDB, Golang, GinGonic, Docker, REST API, microservices, monoliths, etc.
 
 Let's do amazing things together! 😁
 
@@ -21,23 +16,6 @@ LinkedIn: https://www.linkedin.com/in/gastonvalles/ </br>
 Email: gastonvallesyeou@gmail.com </br>
 
 </p> 
-
-```js
-const gastonvalles = {
-  pronouns: 'he' || 'him',
-  code: {
-    languages: [ "JavaScript", "Go" ],
-    database: [ "MongoDB", "PostgreSQL, MySQL" ],
-    backEnd: [ "NodeJs", "Express", "Sequelize", "NestJs", "Gin" ],
-    frontEnd: [ "React", "Redux", "Hooks", "CSS modules", "Bootstrap", "TailwindCSS", "NextJs" ],
-    others: [ "JWT", "ChatGPT", "SCRUM", "Git" ]
-  },
-  contact: {
-    email: "gastonvallesyeou@gmail.com",
-    portfolio: "https://gastonvalles-portfolio.vercel.app/"
-  }
-};
-```
 
 <h2 align="center">💻 Tech Stack:</h2>
 
