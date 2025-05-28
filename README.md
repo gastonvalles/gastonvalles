@@ -1,7 +1,4 @@
 <h1 align="center">Full Stack Developer</h1>
-<p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D16AQHaiZ2BwitUSg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1707873749976?e=1733356800&v=beta&t=0GKX2INpuK22jv_yFYYF4GaZx1tnuTl3Zmhrros7yHY" alt="banner" />
-</p>
 <h2 align="center" >Get to know me!</h2>
 <p>
 I'm Gaston Valles, skilled full stack developer, focused on backend development. I bring an innovative vision and tangible results to each project, leading teams and applying agile methodologies such as SCRUM and KANBAN.
