@@ -1,7 +1,7 @@
 <h1 align="center">Sup? I'm Gaston Valles, Full Stack Developer</h1>
 <h2 align="center" >Get to know me!</h2>
 <p>
-Software developer, team player, and backend enthusiast. 
+Software developer, team player, and backend enthusiast. </br>
 I bring vision to every project, applying agile methodologies like SCRUM and KANBAN.
 
 Let's make amazing things together! 😁
