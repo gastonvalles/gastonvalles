@@ -1,5 +1,5 @@
 <h1 align="center">Sup?</h1>
-<h2 align="center" >I'm Gaston, software developer casting spells 🧙‍♂️</h2>
+<h2>I'm Gaston, software developer casting spells 🧙‍♂️</h2>
 <p>Always cookin' 🍳</p> 
 
 <h2 align="center">💻 Tech Stack:</h2>
