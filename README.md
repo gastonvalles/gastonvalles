@@ -1,11 +1,6 @@
-<h1 align="center">Sup? I'm Gaston Valles</h1>
-<h2 align="center" >Get to know me!</h2>
-<p>
-Software developer, team player, and backend enthusiast. </br>
-I bring vision to every project, applying agile methodologies like SCRUM and KANBAN.
-
-Let's make amazing things together! 😁
-</p> 
+<h1 align="center">Sup?</h1>
+<h2 align="center" >I'm Gaston, software developer casting spells 🧙‍♂️</h2>
+<p>Always cookin' 🍳</p> 
 
 <h2 align="center">💻 Tech Stack:</h2>
 
